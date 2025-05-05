@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "get_cotacoes",
+    "description": "Código python para capturar cotações de moedas no Banco Central"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "49a25114-2164-a110-4acb-c6a716a6aaa1"
+  }
+}
